@@ -1,0 +1,19 @@
+.But{
+    width: 100px;
+    height: 30px;
+    border-radius: 10%;
+    background-color: green;
+    border: transparent;
+  }
+.form-box{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}  
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
